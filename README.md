@@ -17,7 +17,7 @@
   <h2>📦 Installation</h2>
 
   <p><strong>1.</strong> Clone the repository:</p>
-  <pre><code>git clone https://github.com/Jai-Keshav-Sharma/ai-music-composer.git
+  <pre><code>https://github.com/Dhirajgupta440/AI_based_music_composer.git
 cd ai-music-composer</code></pre>
 
   <p><strong>2.</strong> Create a virtual environment (optional but recommended):</p>
