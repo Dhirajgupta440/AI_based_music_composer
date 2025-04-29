@@ -6,7 +6,7 @@
 
   <h1>🎶 AI Music Composer</h1>
 
-  <h2>✨ Features</h2>
+  <h2>✨ Features</h2>  
   <ul>
     <li>🎵 AI-driven music composition</li>
     <li>🐍 Built with Python for flexibility and ease of use</li>
